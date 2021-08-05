@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/shop-firebase-react-redux/static/css/main.205a4bbc.chunk.css",
-    "main.js": "/shop-firebase-react-redux/static/js/main.3584441d.chunk.js",
-    "main.js.map": "/shop-firebase-react-redux/static/js/main.3584441d.chunk.js.map",
+    "main.js": "/shop-firebase-react-redux/static/js/main.029468c0.chunk.js",
+    "main.js.map": "/shop-firebase-react-redux/static/js/main.029468c0.chunk.js.map",
     "runtime-main.js": "/shop-firebase-react-redux/static/js/runtime-main.cf75c221.js",
     "runtime-main.js.map": "/shop-firebase-react-redux/static/js/runtime-main.cf75c221.js.map",
-    "static/js/2.c87fe534.chunk.js": "/shop-firebase-react-redux/static/js/2.c87fe534.chunk.js",
-    "static/js/2.c87fe534.chunk.js.map": "/shop-firebase-react-redux/static/js/2.c87fe534.chunk.js.map",
+    "static/js/2.214b3111.chunk.js": "/shop-firebase-react-redux/static/js/2.214b3111.chunk.js",
+    "static/js/2.214b3111.chunk.js.map": "/shop-firebase-react-redux/static/js/2.214b3111.chunk.js.map",
     "static/js/3.37fe36e6.chunk.js": "/shop-firebase-react-redux/static/js/3.37fe36e6.chunk.js",
     "static/js/3.37fe36e6.chunk.js.map": "/shop-firebase-react-redux/static/js/3.37fe36e6.chunk.js.map",
     "index.html": "/shop-firebase-react-redux/index.html",
     "static/css/main.205a4bbc.chunk.css.map": "/shop-firebase-react-redux/static/css/main.205a4bbc.chunk.css.map",
-    "static/js/2.c87fe534.chunk.js.LICENSE.txt": "/shop-firebase-react-redux/static/js/2.c87fe534.chunk.js.LICENSE.txt"
+    "static/js/2.214b3111.chunk.js.LICENSE.txt": "/shop-firebase-react-redux/static/js/2.214b3111.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.cf75c221.js",
-    "static/js/2.c87fe534.chunk.js",
+    "static/js/2.214b3111.chunk.js",
     "static/css/main.205a4bbc.chunk.css",
-    "static/js/main.3584441d.chunk.js"
+    "static/js/main.029468c0.chunk.js"
   ]
 }
